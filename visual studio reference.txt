@@ -1,0 +1,9 @@
+Hello World example for visual studio 
+
+	https://msdn.microsoft.com/en-us/library/jj620919.aspx
+
+------------------------------------------------------------------------------
+
+Visual Studio 2015 Documentation Index
+
+	https://www.visualstudio.com/en-us/docs/vs/overview	
